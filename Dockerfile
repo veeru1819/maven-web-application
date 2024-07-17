@@ -1,12 +1,9 @@
-# Use the WildFly base image
-FROM jboss/wildfly:latest
+FROM tomcat:9.0 
 
-# Add the .war file to the deployments directory
-COPY target/*.war /opt/jboss/wildfly/standalone/deployments/
+# Copy the WAR file to the webapps directory of Tomcat
+COPY target/*.war /usr/local/tomcat/webapps/
 
-# Expose the default WildFly port
-EXPOSE 8080 9990
+# Expose the port where Tomcat is running
+EXPOSE 8080
 
-# Start WildFly
-CMD ["/opt/jboss/wildfly/bin/standalone.sh", "-b", "0.0.0.0"]
-
+CMD ["catalina.sh", "run"]
