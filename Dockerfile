@@ -1,4 +1,4 @@
-FROM tomcat:9.0
+FROM tomcat
 
 # Copy the WAR file to the webapps directory of Tomcat
 COPY target/*.war /usr/local/tomcat/webapps/
