@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sanju-37 Technologies Pvt Ltd. Ph No: +91-7893834723 ,Hyderabad,Telangana.</h1>
+<h1 align="center">Welcome to Veeru Technologies Pvt Ltd. Ph No: +91-7893834723 ,Hyderabad,Telangana.</h1>
 <h1 align="center"> Sanju-37 Technologies- Very Good Training center for Openshift, kubernetes,DevOps with Azure,Hyderabad India.Training Real Time scnerios</h1>
 <hr>
 <br>
