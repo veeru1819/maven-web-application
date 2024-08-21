@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Sanju-37 Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Veeru Technologies Pvt Ltd. Ph No: +91-9980923226  ,Bengaluru,Karnataka.</h1>
-<h1 align="center"> Veeru Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Sanju-37 Technologies Pvt Ltd. Ph No: +91-7893834723 ,Hyderabad,Telangana.</h1>
+<h1 align="center"> Sanju-37 Technologies- Very Good Training center for Openshift, kubernetes,DevOps with Azure,Hyderabad India.Training Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Veeru Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		Sanju-37 Technologies, 
+		Madhapur , Above Sriram Bank, Beside Meghana Foods,
+		Hyderabad,
+		+91-7893834723,+91-8498969331
+		sanju37.ocptrainig@outlook.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:sanju37.ocptrainig@outlook.com">Mail to Sanju-37 Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Veeru Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://veerutechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Sanju-37 Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://Sanju-37technologies.com/">Sanju-37 Technologies,Hyderabad</a> </small></p>
 
 </body>
 </html>
