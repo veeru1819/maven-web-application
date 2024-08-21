@@ -25,5 +25,5 @@ jobs:
     - name: Deploy to Tomcat
       run: |
         # Copy the .war file to the Tomcat webapps directory
-        docker cp target/your-app.war mycon:/usr/local/tomcat/webapps/
+        docker cp target/maven-web-application.war mycon:/usr/local/tomcat/webapps/
       
