@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Veeru Technologies Pvt Ltd. Ph No: +91-7893834723 ,Hyderabad,Telangana.</h1>
-<h1 align="center"> Sanju-37 Technologies- Very Good Training center for Openshift, kubernetes,DevOps with Azure,Hyderabad India.Training Real Time scnerios</h1>
+<h1 align="center"> Veeru Technologies- A top training center in Hyderabad, India, offering real-time scenario-based courses on OpenShift, Kubernetes, DevOps, and Azure.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
