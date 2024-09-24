@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Veeru Technologies- Home Page</title>
+<title>Vamsi Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Veeru Technologies Pvt Ltd. Ph No: +91-9014141819,Hyderabad,Telangana.</h1>
-<h1 align="center"> Veeru Technologies- A top training center in Hyderabad, India, offering real-time scenario-based courses on OpenShift, Kubernetes, DevOps, and Azure.</h1>
+<h1 align="center">Welcome to Vamsi Technologies Pvt Ltd. Ph No: +91-9014141819,Hyderabad,Telangana.</h1>
+<h1 align="center"> Vamsi Technologies- A top training center in Hyderabad, India, offering real-time scenario-based courses on OpenShift, Kubernetes, DevOps, and Azure.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Veeru Technologies, 
+		Vamsi Technologies, 
 		Madhapur , Above Sriram Bank, Beside Meghana Foods,
 		Hyderabad,
 		+91-7893834723,+91-8498969331
-		Veeru.ocptrainig@outlook.com
+		Vamsi.ocptrainig@outlook.com
 		<br>
-		<a href="mailto:Veeru.ocptrainig@outlook.com">Mail to Veeru Technologies</a>
+		<a href="mailto:Vamsi.ocptrainig@outlook.com">Mail to Veeru Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Veeru Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://Veeru technologies.com/">Veeru Technologies,Hyderabad</a> </small></p>
+<p align=center>Vamsi Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://Vamsi technologies.com/">Vamsi Technologies,Hyderabad</a> </small></p>
 
 </body>
 </html>
