@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Vamsi Technologies Pvt Ltd. Ph No: +91-9014141819,Hyderabad,Telangana.</h1>
-<h1 align="center"> Vamsi Technologies- A top training center in Hyderabad, India, offering real-time scenario-based courses on OpenShift, Kubernetes, DevOps, and Azure.</h1>
+<h1 align="center">Welcome to AKSHAY Technologies Pvt Ltd. Ph No: +91-9014141819,Hyderabad,Telangana.</h1>
+<h1 align="center"> AKSHAY Technologies- A top training center in Hyderabad, India, offering real-time scenario-based courses on OpenShift, Kubernetes, DevOps, and Azure.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Vamsi Technologies, 
+		AKSHAY Technologies, 
 		Madhapur , Above Sriram Bank, Beside Meghana Foods,
 		Hyderabad,
 		+91-7893834723,+91-8498969331
 		Vamsi.ocptrainig@outlook.com
 		<br>
-		<a href="mailto:Vamsi.ocptrainig@outlook.com">Mail to Veeru Technologies</a>
+		<a href="mailto:AKSHAY.ocptrainig@outlook.com">Mail to AKSHAY Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Vamsi Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://Vamsi technologies.com/">Vamsi Technologies,Hyderabad</a> </small></p>
+<p align=center>AKSHAY Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://AKSHAY technologies.com/">AKSHAY Technologies,Hyderabad</a> </small></p>
 
 </body>
 </html>
